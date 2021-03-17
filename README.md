@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GameCreatio
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning 2D & 3D art, game engine development
+- 🌱 I’m currently learning 2D & 3D art, game programming and game engine development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
